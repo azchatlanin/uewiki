@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\Epic Games\\UE_4.20"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"vector": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"*.rh": "cpp"
+		}
+	}
+}
